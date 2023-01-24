@@ -13,4 +13,4 @@ To use this bot (Windows):
   7. Inside the application, create a bot and copy the bot token
   8. Invite your bot to your server with the OAth2 URL generator
   9. In the file index.js, at the last line of code (`client.login("")`), paste your discord bot token inside the string
-  10.Run the index.js file
+  10. Run the index.js file
