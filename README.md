@@ -8,7 +8,7 @@ To use this bot (Windows):
   2. Install node.js
   3. Open CMD
   4. Type the command: `cd [the path to your repository folder]`
-  5. Install discord.js with this command: `npm install discord.js`
+  5. Install discord.js with this command: `npm install discord.js` (the code was written with discord.js version 14.7.1)
   6. Go to [discord.com/developers](https://discord.com/developers) and create a new application
   7. Inside the application, create a bot and copy the bot token
   8. Invite your bot to your server with the OAth2 URL generator (the scope is "bot" and the bot permissions are "Read Messages/View Channels" and "Send Messages"
